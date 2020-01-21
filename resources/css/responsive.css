@@ -1,0 +1,112 @@
+@media (min-width:0px) and (max-width:480px){
+    nav{
+        padding: 1rem 0!important;
+    }
+    .hero-section {
+        padding-top: 12rem;
+        padding-bottom: 6rem;
+    }
+    h1{
+        font-size: 3rem;
+        line-height: 1.2;
+        margin: 0;
+    }
+    h4{
+        font-size: 2.2rem;
+        margin: 0;
+    }
+    
+    .btn{
+        padding: .8rem 2rem;
+        font-size: 1.2rem;
+    }
+    section{
+        padding: 2rem 0;
+    }
+    .work-section{
+        padding: 2rem 0
+    }
+    .work-section .box{
+        width: 100%;
+    }
+    .work-section h2{
+        font-size: 2.6rem;
+        margin:  0;
+        line-height: 1.1;
+        margin-bottom: 1rem;
+    }
+    .work-section p{
+        text-align: justify;
+        margin-bottom: 1.5rem;
+    }
+    .portfolio h3{
+        margin-bottom: 1.5rem;
+    }
+    .portfolio .btn-1{
+        margin-top: 1rem;
+    }
+    .featured .button{
+        text-align: left;
+    }
+    footer{
+        padding: 1.5rem 0;
+    }
+}
+
+
+@media (min-width:481px) and (max-width:576px){
+    
+}
+@media (min-width:576.1px) and (max-width:767px){
+    .hero-section {
+        padding-top: 12rem;
+        padding-bottom: 6rem;
+    }
+    h1{
+        font-size: 2.6rem;
+        letter-spacing: 0;
+        line-height: 1.2;
+        margin: 0;
+    }
+    h4{
+        font-size: 2.2rem;
+        margin: 0;
+    }
+    .btn{
+        padding: .8rem 2rem;
+        font-size: 1.2rem;
+    }
+     section{
+        padding: 2rem 0;
+    }
+    .work-section{
+        padding: 2rem 0
+    }
+    .work-section .box{
+        width: 100%;
+    }
+     .work-section h2{
+        font-size: 2.6rem;
+        margin:  1rem 0;
+        line-height: 1.1;
+        margin-bottom: 1rem;
+    }
+    .work-section p{
+        text-align: justify;
+        margin-bottom: 1.5rem;
+    }
+    .portfolio h3{
+        margin-bottom: 1.5rem;
+    }
+    .card-section .img-box .pos span{
+   
+    padding: .5rem;
+    
+}
+    .card-section .card p{
+        font-size: 1.4rem;
+    }
+    footer{
+        padding: 1.5rem 0;
+    }
+}
